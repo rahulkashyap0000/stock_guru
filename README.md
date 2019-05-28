@@ -12,3 +12,7 @@ The most primary reason of creating this is to practice my bootstrap skills. Thi
 - Smooth Scrolling Feature
 - Scroll Spy Feature
 - Highly Customizable
+
+## Contribution
+
+The repository is open for contribution. Before contributing please read the [Contribution Guidelines](contribution.md)
